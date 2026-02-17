@@ -471,7 +471,7 @@ def run_pipeline():
 
   print("\n=== STEP 6: FTP UPLOAD ===")
 
-  FTP_HOST = "ftp://ftpsrv.maisonsetappartements.fr"
+  FTP_HOST = "ftpsrv.maisonsetappartements.fr"
   FTP_USER = "pass_pbs"
   FTP_PASS = "pbs49637cms+"
 
